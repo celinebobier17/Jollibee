@@ -1,2 +1,2 @@
 # Jollibee
-This is a clone sample for Jollibee website.
+Jollibee website sample clone
